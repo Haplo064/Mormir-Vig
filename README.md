@@ -8,6 +8,7 @@ Based heavily on https://github.com/oboyone/mb_thermal_printer, but improved to 
 - Requests https://pypi.org/project/requests/
 - Wand https://docs.wand-py.org
 - Image Magick https://docs.wand-py.org/en/latest/guide/install.html
+- ijson https://pypi.org/project/ijson/
 
 ## Usage
 Run getCards.py script from the folder where you want the sorted images to be placed.
